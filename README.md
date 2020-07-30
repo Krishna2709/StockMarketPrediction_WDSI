@@ -42,6 +42,6 @@ Here, we try to predict the direction of market(uptrend or downtrend) using a se
 <br>
 
 #### References
-[Deep Learning in Finance] (https://blog.quantinsti.com/deep-learning-finance/)  <br>
-[MachineLearningMastery] (https://machinelearningmastery.com) <br>
-[Time Series - Analytics Vidhya] (https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-using-python)
+Deep Learning in Finance (https://blog.quantinsti.com/deep-learning-finance/)  <br>
+MachineLearningMastery (https://machinelearningmastery.com) <br>
+Time Series - Analytics Vidhya (https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-using-python)
