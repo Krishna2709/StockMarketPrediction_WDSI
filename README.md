@@ -39,3 +39,9 @@ Here, we try to predict the direction of market(uptrend or downtrend) using a se
 5. *Feature Scaling*
 6. *Creating the model*
 7. *Calculating the error metrics*
+<br>
+
+#### References
+> [Deep Learning in Finance] (https://blog.quantinsti.com/deep-learning-finance/) 
+> [MachineLearningMastery](https://machinelearningmastery.com)
+> [Time Series - Analytics Vidhya](https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-using-python)
