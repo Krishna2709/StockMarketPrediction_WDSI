@@ -26,7 +26,6 @@ The errors are minimised through Gradient Descent techniques.
 Companies like CRISIL, JP Morgan Chase, BNY Mello and others are using Deep Learning Frameworks in their financial fields.<br>
 
 Here we will be discussing about Stock Market Trend Prediction.
-Stock Market Prediction 
 Here, we try to predict the direction of market(uptrend or downtrend) using a set of features, thus we can consider it as a Binary Classification problem i.e <br>
 > 0 => Downtrend <br>
 > 1 => Uptrend
